@@ -3,7 +3,7 @@ def first_challenge
      :montague => {},
      :capulet => {}
    }
-   puts first_challenge
+   puts epic_tragedy
 end
 
 first_challenge
