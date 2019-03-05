@@ -3,7 +3,4 @@ def first_challenge
      :montague => {},
      :capulet => {}
    }
-   puts epic_tragedy
 end
-
-first_challenge
