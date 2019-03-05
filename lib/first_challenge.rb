@@ -3,4 +3,7 @@ def first_challenge
      montague: {},
      capulet: {}
    }
+   puts first_challenge
 end
+
+first_challenge
